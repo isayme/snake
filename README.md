@@ -10,7 +10,7 @@ Run make command to create the executable file.
 run ./bin/snake to have fun.  
 > wget http://github.com/isayme/snake/archive/master.tar.gz  
 > tar xvf master.tar.gz  
-> cd snake  
+> cd snake-master  
 > make  
 > ./bin/snake     
 
