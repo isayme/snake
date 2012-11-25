@@ -29,6 +29,6 @@ Printscreen
 ===========
 
 ## Normal ##
-![Normal](https://github.com/isayme/snake/blob/master/bin/snake_normal.png)
+![Normal](https://raw.github.com/isayme/snake/master/bin/snake_normal.png)
 ## Dead ##
-![Dead](https://github.com/isayme/snake/blob/master/bin/snake_dead.png)
+![Dead](https://raw.github.com/isayme/snake/master/bin/snake_dead.png)
