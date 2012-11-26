@@ -107,7 +107,6 @@ void snake_timer()
                 snake_settimer(0);
 
                 snake_ch(pnode->pos.x, pnode->pos.y, SNAKE_BODY_CH);
-                list_add_tail(plist, &g_snake.list);
                 snake_die();
                 return;
             }
@@ -123,7 +122,6 @@ void snake_timer()
             snake_settimer(0);
 
             snake_ch(pnode->pos.x, pnode->pos.y, SNAKE_BODY_CH);
-            list_add_tail(plist, &g_snake.list);
             snake_die();
             return;
         }
